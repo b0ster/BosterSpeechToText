@@ -1,0 +1,11 @@
+Filename;Caffaro_vincent.wav
+Original text;Some looked on jealously, like Caffaro, the most famous Genoese historian ofthe Middle ages.
+Recognized text;some looked on jealously like Apollo the most famous generals historian of the Middle Ages
+Confidence;90.59%
+Time needed (seconds);2.79
+Real time factor;0.40
+Word correct rate;0.64
+Word error rate;0.36
+Recall;0.86
+Precision;0.80
+F-Score;0.83

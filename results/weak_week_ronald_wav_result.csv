@@ -1,0 +1,11 @@
+Filename;weak_week_ronald.wav
+Original text;She is still weak after her illness. He comes to see us once a week.
+Recognized text;she is still weak after illness he comes to see us once a week
+Confidence;97.55%
+Time needed (seconds);1.50
+Real time factor;0.23
+Word correct rate;0.33
+Word error rate;0.67
+Recall;0.93
+Precision;1.00
+F-Score;0.97

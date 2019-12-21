@@ -1,0 +1,11 @@
+Filename;pest_gustav.wav
+Original text;A pessimistic pest exists amidst us.
+Recognized text;a pessimistic past exists a mess.
+Confidence;85.26%
+Time needed (seconds);1.76
+Real time factor;0.47
+Word correct rate;0.50
+Word error rate;0.50
+Recall;0.67
+Precision;0.67
+F-Score;0.67

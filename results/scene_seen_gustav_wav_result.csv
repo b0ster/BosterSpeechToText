@@ -1,0 +1,11 @@
+Filename;scene_seen_gustav.wav
+Original text;The police soon arrived at the scene of the crime. He crouched down so he couldn't be seen.
+Recognized text;police soon arrived at the scene of the crime he crouched down so we couldn't DC
+Confidence;92.93%
+Time needed (seconds);1.49
+Real time factor;0.06
+Word correct rate;0.00
+Word error rate;1.00
+Recall;0.79
+Precision;0.88
+F-Score;0.83

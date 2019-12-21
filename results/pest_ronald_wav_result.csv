@@ -1,0 +1,11 @@
+Filename;pest_ronald.wav
+Original text;A pessimistic pest exists amidst us.
+Recognized text;a pessimistic best exists midst us
+Confidence;68.25%
+Time needed (seconds);1.64
+Real time factor;0.46
+Word correct rate;0.67
+Word error rate;0.33
+Recall;0.67
+Precision;0.67
+F-Score;0.67

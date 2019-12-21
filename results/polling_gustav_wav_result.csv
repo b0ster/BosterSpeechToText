@@ -1,0 +1,11 @@
+Filename;polling_gustav.wav
+Original text;The important difference between the pend operation and simply polling the mailbox location is that the pending task is suspended while waiting for data to appear. Thus no CPU time is wasted for polling the mailbox.
+Recognized text;the important difference between depend operation and simply pulling the mailbox location is that that depending task is suspended why waiting for data to appear That's No CPU time is wasted for pulling the mailbox
+Confidence;93.48%
+Time needed (seconds);3.19
+Real time factor;0.19
+Word correct rate;0.36
+Word error rate;0.64
+Recall;0.83
+Precision;0.83
+F-Score;0.83

@@ -1,0 +1,11 @@
+Filename;meet_meat_ronald.wav
+Original text;Maybe we'll meet again some time. I gave up eating meat a few months ago.
+Recognized text;maybe we'll meet again sometime I gave up eating meat a few months ago
+Confidence;95.79%
+Time needed (seconds);2.12
+Real time factor;0.24
+Word correct rate;0.31
+Word error rate;0.69
+Recall;0.88
+Precision;0.93
+F-Score;0.90

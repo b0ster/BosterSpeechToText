@@ -1,0 +1,11 @@
+Filename;semaphore_vincent.wav
+Original text;The highest priority task relinquishes the CPU whenever it seeks to lock thesemaphore guarding a critical section that is already locked by some other task.When a lower-priority task blocks a higher priority one, a priority inversionis said to occur. Consider the following example, where priority inversion takesplace.
+Recognized text;the highest pay Wichita Square languages the CPU whenever at 6 love to see more for guarding a critical section that's already locked by some other task
+Confidence;86.18%
+Time needed (seconds);2.99
+Real time factor;0.35
+Word correct rate;0.04
+Word error rate;0.96
+Recall;0.35
+Precision;0.61
+F-Score;0.44

@@ -1,0 +1,11 @@
+Filename;priority_inversion_gustav.wav
+Original text;The highest priority task relinquishes the CPU whenever it seeks to lock the semaphore guarding a critical section that is already locked by some other task.
+Recognized text;the highest priority tasks relinquishes the CPU whenever it seeks to lock the semaphore guarding a critical section that is already locked by some other task when the lower priority task blocks a high priority One a priority inversion is said to occur cons
+Confidence;94.22%
+Time needed (seconds);5.09
+Real time factor;0.20
+Word correct rate;0.96
+Word error rate;0.04
+Recall;1.31
+Precision;0.77
+F-Score;0.97

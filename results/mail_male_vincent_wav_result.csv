@@ -1,0 +1,11 @@
+Filename;mail_male_vincent.wav
+Original text;He found a mountain of mail waiting for him. Many women earn less than their male colleagues.
+Recognized text;I found the mountain of mail waiting for it many women earn less than a male colleagues
+Confidence;87.61%
+Time needed (seconds);2.20
+Real time factor;0.32
+Word correct rate;0.76
+Word error rate;0.24
+Recall;0.82
+Precision;0.82
+F-Score;0.82

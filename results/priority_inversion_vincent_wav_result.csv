@@ -1,0 +1,11 @@
+Filename;priority_inversion_vincent.wav
+Original text;The highest priority task relinquishes the CPU whenever it seeks to lock the semaphore guarding a critical section that is already locked by some other task.
+Recognized text;but a low priority task blocks a high priority one priority inversion is set to occur consider the following example by play what the inversion takes place
+Confidence;88.29%
+Time needed (seconds);3.64
+Real time factor;0.39
+Word correct rate;0.00
+Word error rate;1.00
+Recall;0.42
+Precision;0.41
+F-Score;0.42
