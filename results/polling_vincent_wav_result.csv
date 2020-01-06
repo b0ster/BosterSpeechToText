@@ -1,9 +1,9 @@
 Filename;polling_vincent.wav
 Original text;The important difference between the pend operation and simply polling the mailbox location is that the pending task is suspended while waiting for data to appear. Thus no CPU time is wasted for polling the mailbox.
-Recognized text;important difference between a bent over Asian and simply pulling the mailbox location into the pending tasks a suspended while waiting for data to appear thus no CPU time is Weiss's football in the mailbox
-Confidence;92.98%
-Time needed (seconds);4.80
-Real time factor;0.34
+Recognized text;important difference between a bent over Asian and simply pulling the mailbox location inside the pending tasks a suspended while waiting for data to appear thus no CPU time is Weiss's football in the mailbox
+Confidence;92.53%
+Time needed (seconds);5.00
+Real time factor;0.35
 Word correct rate;0.19
 Word error rate;0.81
 Recall;0.67

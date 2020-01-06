@@ -4,6 +4,6 @@ Recall micro average;0.65
 Recall macro average;0.76
 F-Score micro average;0.71
 F-Score macro average;0.77
-Real time factor average;0.32
-Word correct rate average;0.49
-Word error rate average;0.51
+Real time factor average;0.33
+Word correct rate average;0.51
+Word error rate average;0.49

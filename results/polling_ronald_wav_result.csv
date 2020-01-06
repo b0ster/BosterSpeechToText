@@ -1,9 +1,9 @@
 Filename;polling_ronald.wav
 Original text;The important difference between the pend operation and simply polling the mailbox location is that the pending task is suspended while waiting for data to appear. Thus no CPU time is wasted for polling the mailbox.
 Recognized text;the important difference between the pain operation and Sibley pulling the mailbox location is that the pending tasks is suspended while waiting for the data to appear the snow CPU time is wasted for pulling the mailbox
-Confidence;87.76%
-Time needed (seconds);3.22
-Real time factor;0.22
+Confidence;88.02%
+Time needed (seconds);3.08
+Real time factor;0.21
 Word correct rate;0.53
 Word error rate;0.47
 Recall;0.86

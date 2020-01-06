@@ -1,11 +1,11 @@
 Filename;Caffaro_ronald.wav
 Original text;Some looked on jealously, like Caffaro, the most famous Genoese historian ofthe Middle ages.
-Recognized text;son Lux on Jabba sleep like a photo on most famous Gentiles historian the Middle Ages
-Confidence;83.43%
-Time needed (seconds);2.59
-Real time factor;0.34
-Word correct rate;0.07
-Word error rate;0.93
-Recall;0.64
-Precision;0.56
-F-Score;0.60
+Recognized text;some Loot on Jabba sleep like a pharaoh the most famous Gentiles historian the Middle Ages
+Confidence;83.26%
+Time needed (seconds);2.95
+Real time factor;0.39
+Word correct rate;0.14
+Word error rate;0.86
+Recall;0.71
+Precision;0.63
+F-Score;0.67

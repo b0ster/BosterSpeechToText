@@ -1,11 +1,11 @@
 Filename;scene_seen_ronald.wav
 Original text;The police soon arrived at the scene of the crime. He crouched down so he couldn't be seen.
-Recognized text;the police shoot arrived at the scene of the crime he crouched down so he couldn't be seen
-Confidence;90.21%
-Time needed (seconds);1.71
-Real time factor;0.22
-Word correct rate;0.95
-Word error rate;0.05
-Recall;0.95
-Precision;0.95
-F-Score;0.95
+Recognized text;the police soon arrived at the scene of the crime he crouched down so he couldn't be seen
+Confidence;96.37%
+Time needed (seconds);2.43
+Real time factor;0.31
+Word correct rate;1.00
+Word error rate;0.00
+Recall;1.00
+Precision;1.00
+F-Score;1.00

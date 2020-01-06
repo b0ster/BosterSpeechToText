@@ -1,11 +1,11 @@
 Filename;Palestine_ronald.wav
 Original text;In the short term, these measures meant little. After securing Palestine, thepersians turned to the Nile delta, taking Alexandria in 619 AD.
-Recognized text;in the short-term these measures men's little after securing Palestine the Persians turn to the Nile Delta taking Alexandria the 600 1980
-Confidence;89.67%
-Time needed (seconds);3.66
-Real time factor;0.34
+Recognized text;in the short-term these measures men's little after securing Palestine the Persians turn to the Nile Delta taking Alexandria in the 600 1980
+Confidence;88.28%
+Time needed (seconds);2.97
+Real time factor;0.28
 Word correct rate;0.27
 Word error rate;0.73
-Recall;0.82
-Precision;0.75
-F-Score;0.78
+Recall;0.86
+Precision;0.76
+F-Score;0.81

@@ -1,11 +1,11 @@
 Filename;coffee_vincent.wav
 Original text;Give papa a cup of proper coffee in a copper coffee cup.
-Recognized text;give Papa a cup of proper coffee in a copper coffee cup
-Confidence;96.92%
-Time needed (seconds);3.05
-Real time factor;0.81
-Word correct rate;1.00
-Word error rate;0.00
+Recognized text;give Papa a cup of coffee in a cup of coffee cup
+Confidence;87.89%
+Time needed (seconds);3.73
+Real time factor;0.99
+Word correct rate;0.58
+Word error rate;0.42
 Recall;1.00
 Precision;1.00
 F-Score;1.00

@@ -1,11 +1,11 @@
 Filename;pest_vincent.wav
 Original text;A pessimistic pest exists amidst us.
-Recognized text;a pessimistic best exists a mister
-Confidence;78.27%
-Time needed (seconds);1.53
-Real time factor;0.35
-Word correct rate;0.50
-Word error rate;0.50
-Recall;0.67
-Precision;0.67
-F-Score;0.67
+Recognized text;a pessimistic best exits emits.
+Confidence;86.08%
+Time needed (seconds);2.01
+Real time factor;0.46
+Word correct rate;0.33
+Word error rate;0.67
+Recall;0.33
+Precision;0.40
+F-Score;0.36
